@@ -16,6 +16,9 @@ https://github.com/mchavesferreira/exemplo/blob/main/voltametrico/ganhoADG444BRZ
 ## Entender as diferenças entre potenciostato/galvanostato
 
 <img src=imagens/galvanostatopotenciostato.png>
+https://drive.google.com/file/d/1yTjzVBx_RDu1pM47FJziYduYy4tpQ3qN/view?usp=sharing
+
+
 
 ## Artigos exemplos objetivos
 
@@ -30,5 +33,19 @@ https://drive.google.com/file/d/113iuUMNPAcvJdJro1Io1QJc1cyO33_ir/view?usp=drive
 Explica as partes do potenciostato/galvanostato explicando suas diferenças
 https://drive.google.com/file/d/1gMekI8pySnw4SjDgDWFvgZCK0BO0uaw2/view?usp=sharing
 
+### pode ser controlado via smartphone
+
+
 Faz um panorama em portugues sobre estado da arte de potenciostato de baixo custo
 https://drive.google.com/file/d/1n0MxDC6zaWN0GzV9-p9nlvbsQcckggf-/view?usp=sharing
+
+## partes do potenciostato como referencia
+
+https://drive.google.com/file/d/1ZwtPqTY9BzZw_8TZtRkg7ToJRidK9tyj/view?usp=sharing
+
+
+## referencias principais com autoriza
+
+https://www.teses.usp.br/teses/disponiveis/3/3140/tde-18122009-125440/publico/TESEzaira.pdf   pagina 48 esquema eletrico do potenciostato
+
+
