@@ -147,13 +147,7 @@ Cada switch do **ADG444** ativa **um ganho específico**, com controle digital d
 * Analog Devices – *Analog Switches for Programmable Gain*
   [https://www.analog.com/en/analog-dialogue/articles/analog-switches.html](https://www.analog.com/en/analog-dialogue/articles/analog-switches.html)
 
----
 
-Se quiser, no próximo passo posso:
-
-* ✔ calcular **erro de ganho real** considerando o RON
-* ✔ sugerir **valores ótimos de resistores**
-* ✔ montar um **esquemático completo (didático)**
 * ✔ comparar com relés reed ou JFETs
 
 É só me dizer como pretende controlar os ganhos (GPIO, SPI, I²C ou manual).
