@@ -55,7 +55,7 @@ https://www.teses.usp.br/teses/disponiveis/3/3140/tde-18122009-125440/publico/TE
 LM4040 2.5V e 4.096V com ganho buffer
 
 <img src=imagens/ibanismarcos.png>
-Circuito potenciostato. IC6-LT é um conversor DA, este sinal é somado a referencia 2.5V obtendo a linha )Senal) é aplicado a entrada (+) do amplificador TIA (op177). O ganho deste amplificador vem do circuito com CD4052. A saida do TIA é aplicado ao somador com 2.5V.  
+Circuito potenciostato. IC6-LT é um conversor DA, este sinal é somado a referencia 2.5V obtendo a linha (Senal) é aplicado a entrada (+) do amplificador TIA (op177). O ganho deste amplificador vem do circuito com CD4052. A saida do TIA é aplicado ao somador com 2.5V.  
 Após o sinal é aplicado ao conversor DA.
 ### Dúvida
 Montar o circuito para verificar se é necessário outro inversor  (IN-fil out-fil)
